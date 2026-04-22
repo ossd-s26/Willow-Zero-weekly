@@ -29,6 +29,6 @@ Replace the first row with your own contribution.
 |  April 8   |  [reported issue to Vanilla Psycasts Expanded](https://github.com/Vanilla-Expanded/VanillaPsycastsExpanded/issues/35)   |  Github   |   reported percieved issue in a game mod.   |
 | April 19    |  [pull request to VanillaPsycastsExpanded](https://github.com/Vanilla-Expanded/VanillaPsycastsExpanded/pull/36)   |   Github  |   renmoved goodwill loss from word of productivity.   |
 |   April 22  |   [edited Margaret Kill](https://en.wikipedia.org/w/index.php?diff=1350553410)[joy's Wikipedia page](https://en.wikipedia.org/w/index.php?title=Margaret_Killjoy&diff=prev&oldid=1350553789)  |  Wikipedia   |   added one of her early writings to the page.   |
-|     |     |     |      |
+|   April 22  |   [Pham Hai Yen](https://en.wikipedia.org/w/index.php?diff=1350555500)  |  Wikipedia   |    a couple minor spelling and phrasing changes  |
 |     |     |     |      |
 |     |     |     |      |
